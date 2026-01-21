@@ -19,6 +19,11 @@ The main goal of this project is to apply **structured programming concepts**, m
 
 ---
 
+> ⚠️ **Note:**  
+> This is an old project from my first year of university, and I plan to refactor it soon.
+
+---
+
 ## 🚀 Features
 
 - Client management
